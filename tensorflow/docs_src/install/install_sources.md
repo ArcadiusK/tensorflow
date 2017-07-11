@@ -58,7 +58,7 @@ named `tensorflow`.  After cloning, you may optionally build a
 following commands:
 
 <pre>
-$ <b>cd tensorflow</b>
+$ <b>cd tensorflow</b> xxx
 $ <b>git checkout</b> <i>Branch</i> # where <i>Branch</i> is the desired branch
 </pre>
 
